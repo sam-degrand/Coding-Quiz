@@ -9,3 +9,4 @@ No installation is necessary to run this project. Simply open the index.html fil
 To start the quiz, click the "Start" button. You will be presented with a series of multiple-choice questions. Select the answer you believe is correct and click "Submit". If you answer correctly, you will move on to the next question. If you answer incorrectly, time will be deducted from the clock.
 
 When you have answered all the questions or the time runs out, the game is over. You will be prompted to enter your initials and your score will be displayed. You can then choose to save your score or play again.
+https://sam-degrand.github.io/Coding-Quiz/
