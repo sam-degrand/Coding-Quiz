@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Code Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Code Quiz</h1>
+    </header>
+    
+    <main>
+      <div id="quiz">
+        <div id="question"></div>
+        <div id="choices"></div>
+      </div>
+      
+      <div id="score">
+        Time left: <span id="time-left">60</span>
+      </div>
+      
+      <button id="start-btn" onclick="startQuiz()">Start</button>
+      <button id="reset" style="display: none;">Restart Quiz</button> <!-- Added reset button -->
+      <div id="score-container">
+        <h2>Previous Scores</h2>
+        <div id="score-list"></div>
+      </div>
+    </main>
+    
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
